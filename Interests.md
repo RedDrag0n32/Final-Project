@@ -7,6 +7,8 @@ I am by all means a total dork. I like to read, play video games, swim, hang wit
 * Assassin's Creed
 * Kingdom Hearts
 
+<img src = "/Pictures/Witcher.png" alt = "drawing" width = "100"/>
+
 ## Here is a list of some of my favorite Anime: 
 * Fairy Tail
 * Attack on Titan
@@ -14,7 +16,7 @@ I am by all means a total dork. I like to read, play video games, swim, hang wit
 * Bleach
 * Haiyku!
 
-<img src = "/Pictures/FairyTail.png" alt = "drawing" width = "200"/>
+<img src = "/Pictures/FairyTail.png" alt = "drawing" width = "100"/>
 
 ## Here is a list of some of my favorite Book Series:
 * _Percy Jackson_
