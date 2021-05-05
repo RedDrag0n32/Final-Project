@@ -24,6 +24,7 @@ I am by all means a total dork. I like to read, play video games, swim, hang wit
 * _Unwound_ Series
 * _Inheritance Cycle_
 
+<img src = "/Pictures/Eragon.jfif" alt = "drawing" width = "100"/>
 
 
 |[**About Me**](/AboutMe.md)|[**Code**](/Code.md)|[**School**](/School.md)|[**Home**](README.md)|
