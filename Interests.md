@@ -14,7 +14,7 @@ I am by all means a total dork. I like to read, play video games, swim, hang wit
 * Bleach
 * Haiyku!
 
-![Fairy Tail Logo](Pictures/FairyTail.png)
+<img src = "/Pictures/FairyTail.png" alt = "drawing" width = "200"/>
 
 ## Here is a list of some of my favorite Book Series:
 * _Percy Jackson_
