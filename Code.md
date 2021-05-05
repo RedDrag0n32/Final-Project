@@ -11,3 +11,6 @@ Here is a little program I have written :)
 </body>
 </html>
 
+```
+
+|[**About Me**](/AboutMe.md)|[**Home**](/README.md)|[**School**](/School.md)|[**Interests**](Interests.md)|
